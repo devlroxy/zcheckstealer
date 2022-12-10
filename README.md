@@ -23,7 +23,7 @@
 
 ## Setup:
  
-First paste and save your webhook address instead of `"WEBHOOK HERE"` in Creal.py
+First paste and save your webhook address instead of `"WEBHOOK HERE"` in lroxy.py
 
 If you use obfuscator it will be undetectable.
 
